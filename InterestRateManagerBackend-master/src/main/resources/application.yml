@@ -1,9 +1,9 @@
 
 spring:
   datasource:
-    url: jdbc:postgresql://104.154.17.176:5432/irmdb
-    username: irmuser
-    password: irmuser
+    url: jdbc:postgresql://34.30.240.122:5432/irmdb
+    username: irmdb
+    password: irmdb
   jpa:
     hibernate:
       ddl-auto: update
